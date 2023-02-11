@@ -10,7 +10,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh2-1.fna.fbcdn.net/v/t51.2885-19/267953195_615618266448242_7151270918909418472_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4uoOHAE0Y88AX_v7Y-z&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_GTukHLJc3JsBULK1BDqx9DcXKw_mfnN-iE_pAxzFoyQ&oe=6338C1D8&_nc_sid=8fd12b">
 </div>
   
   ##
