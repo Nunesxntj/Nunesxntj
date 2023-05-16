@@ -1,38 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Gustavo+Nunes&fontColor=fff&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD1AE5&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUSTAVO+NUNES;I'm+18+years+old;I+am+from+Itapevi,+SP;I+study+analysis+and+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
- <a href="https://github.com/MuriloJLima"><img alt="Gustavo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nunesxntj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nunesxntj"><img alt="Gustavo Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunesxntj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20ADS%20na%20ETEC;Finalizo%20em%2006/23;&font=Anton&left=true&width=650&height=120&color=BD1AE5F5&vCenter=true&size=45%22" alt=""/>
 
 
+_He recently started the Systems Analysis and Development course at ETEC. 
+Come follow my progress by viewing my github [repository](https://github.com/Nunesxntj?tab=repositories)._
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+- 🔭 I’m currently working on [E-PLANNER](https://github.com/Jpzinn654/E-PLANNER-MAIN) project
+
+- 🌱 I’m currently learning **AZURE, Java, ReactJS**
+
+- 📫 How to reach me **guuhnunes7@gmail.com**
+
+---
+
+<p align="center">
+<h3>i know about:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,azure,linux,git,github,postman&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+<h3>I'm learning about:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,js,tailwind&theme=dark" />
+  </a>
+</p>
+<p align="center">
+<h3>I will learn about:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift&theme=dark" />
+  </a>
+</p>
+<p align="center">
+<h3>IDE's:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio&theme=dark" />
+  </a>
+</p>
+
+ ---
+ 
+<div align="center" >
+  <a href="https://github.com/Nunesxntj">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nunesxntj&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUNESXNTJ&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+
+</div>
+</div>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD1AE5F5&height=120&section=footer"/>
