@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD1AE5&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20ADS%20na%20ETEC;Finalizo%20em%2006/23;&font=Anton&left=true&width=650&height=120&color=BD1AE5F5&vCenter=true&size=45%22" alt=""/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20ADS%20na%20ETEC;Finalizo%20em%2006/23;&font=Anton&left=true&width=650&height=120&color=00BFFF&vCenter=true&size=45%22" alt=""/>
 
 
 _He recently started the Systems Analysis and Development course at ETEC. 
