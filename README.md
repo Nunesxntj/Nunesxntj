@@ -10,7 +10,7 @@ Come follow my progress by viewing my github [repository](https://github.com/Nun
 
 - 🔭 I’m currently working on [E-PLANNER](https://github.com/Jpzinn654/E-PLANNER-MAIN) project
 
-- 🌱 I’m currently learning **AZURE, Java, ReactJS**
+- 🌱 I’m currently learning **AZURE, Java**
 
 - 📫 How to reach me **guuhnunes7@gmail.com**
 
