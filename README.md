@@ -19,14 +19,14 @@ Come follow my progress by viewing my github [repository](https://github.com/Nun
 <p align="center">
 <h3>i know about:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,mysql,figma,azure,linux,git,github,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,js,mysql,figma,azure,linux,git,github,postman&theme=dark" />
   </a>
 </p>
 
 <p align="center">
 <h3>I'm learning about:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,nodejs,java,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python&theme=dark" />
   </a>
 </p>
 <p align="center">
