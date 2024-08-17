@@ -12,7 +12,7 @@ Come follow my progress by viewing my github [repository](https://github.com/Nun
 
 - 🌱 I’m currently learning **AZURE, Java**
 
-- 👨‍💻 All of my projects are available at [Portifólio](https://github.com/Nunesxntj/Portifolio)
+- 👨‍💻 All of my projects are available at [Portifólio](https://nunesxntj.github.io/Portifolio/)
 
 - 📫 How to reach me **guuhnunes7@gmail.com**
 
